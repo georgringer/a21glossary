@@ -153,19 +153,19 @@
       </trans-unit>
       <trans-unit id="tx_a21glossary_main.force_preservecase.I.1">
         <source>Force Like Displayed</source>
-        <target state="needs-translation">Force Like Displayed</target>
+        <target state="translated">Gennemtving som vist</target>
       </trans-unit>
       <trans-unit id="tx_a21glossary_main.force_preservecase.I.2">
         <source>Force Like In Glossary</source>
-        <target state="needs-translation">Force Like In Glossary</target>
+        <target state="translated">Gennemtving som i ordbog</target>
       </trans-unit>
       <trans-unit id="tx_a21glossary_main.force_regexp">
         <source>Item Recognition</source>
-        <target state="needs-translation">Item Recognition</target>
+        <target state="translated">Element anerkendelse</target>
       </trans-unit>
       <trans-unit id="tx_a21glossary_main.force_regexp.I.0">
         <source>Complete Word (Default)</source>
-        <target state="needs-translation">Complete Word (Default)</target>
+        <target state="translated">Komplet ord (standard)</target>
       </trans-unit>
       <trans-unit id="tx_a21glossary_main.force_regexp.I.1">
         <source>Word Part</source>
